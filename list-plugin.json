@@ -74,7 +74,7 @@
         "PluginURI": "https:\/\/github.com/drajathasan\/label_mixcode_color_slims",
         "Branch": "master",
         "Description": "Plugin pengganti label_barcode_color_slims dengan fitur baru dan support SLiMS 9 terbaru",
-        "Version": "1.0.0-beta-1",
+        "Version": "1.0.0-beta-3",
         "Author": "Drajat Hasan",
         "AuthorURI": "https:\/\/github.com\/drajathasan",
         "Type": "Plugin"
