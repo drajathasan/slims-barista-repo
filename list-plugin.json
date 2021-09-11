@@ -78,5 +78,15 @@
         "Author": "Drajat Hasan",
         "AuthorURI": "https:\/\/github.com\/drajathasan",
         "Type": "Plugin"
+    },
+    {
+        "PluginName": "SLiMS Telegram Plugin",
+        "PluginURI": "https:\/\/github.com\/heroesoebekti\/telegram",
+        "Branch": "master",
+        "Description": "Use for integrated with Telegram Bot",
+        "Version": "1.0.0",
+        "Author": "Heru Subekti",
+        "AuthorURI": "https:\/\/github.com\/heroesoebekti",
+        "Type": "Plugin"
     }
 ]
