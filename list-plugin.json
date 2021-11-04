@@ -92,7 +92,7 @@
     {
         "PluginName": "VisitorWebCounter",
         "PluginURI": "https:\/\/github.com\/drajathasan\/visitorwebcounter",
-        "Branch": "master",
+        "Branch": "main",
         "Description": "Plugin for count web visitor",
         "Version": "1.0.0",
         "Author": "Heru Subekti",
