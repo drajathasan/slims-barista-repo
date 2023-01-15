@@ -98,5 +98,15 @@
         "Author": "Drajat Hasan",
         "AuthorURI": "https:\/\/github.com\/drajathasan",
         "Type": "Plugin"
+    },
+    {
+        "PluginName": "SLiMS Upgrader",
+        "PluginURI": "https:\/\/github.com\/drajathasan\/slims-upgrader",
+        "Branch": "main",
+        "Description": "Plugin for upgrade SLiMS",
+        "Version": "1.0.0",
+        "Author": "Drajat Hasan",
+        "AuthorURI": "https:\/\/github.com\/drajathasan",
+        "Type": "Plugin"
     }
 ]
